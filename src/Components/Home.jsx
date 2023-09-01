@@ -5,7 +5,7 @@ import { ColorRing } from "react-loader-spinner";
 const Home = () => {
 
     // API KEY
-    const apiKey = 'AIzaSyC1wdqIYSlEKlRGo8sn4klAx8Rw9tsI9Cc';
+    const apiKey = 'AIzaSyAiMe2f9G1kmmL-YyObyB1WwlPbZLAEovg';
 
     const limit = 10;
 
